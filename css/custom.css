@@ -1,0 +1,95 @@
+.topbar{
+	background:#E41F0E;
+	background:linear-gradient(90deg, #94041e 0%, #d1343c 61%, #ff0000 100%)
+}
+.phone{
+	color: #fff;
+	text-decoration: none;
+}
+.phone:hover{
+	color: rgba(255,255,255,0.9);
+	text-decoration: none;
+}
+.img-header{
+	width: 12px;
+}
+
+.bg-mybtn{
+	background-color: #013565;
+}
+
+.bg-logo2{
+	background-color: #013565;
+	color: #fff;
+}
+
+.bg-gradient{
+	background:linear-gradient(90deg, #fff 10%,  #fff 100%);
+}
+
+.comCopy{
+	color: #fff;
+	text-decoration: none;
+}
+
+.myFooterBg{
+	background-color:#3454d1;
+}
+
+.myHeaderBg{
+	background-image: url('../images/headerBg.jpg');
+}
+
+/*.bg-gradient{
+	background:linear-gradient(90deg, #883030 0%, #d13437 61%, #ff0000 100%);
+}
+*/
+
+.myCard{
+	width: 100%;
+	border: 1px solid rgba(0,0,0,.05);
+	
+	padding: 18px 18px;
+	text-align:center;
+}
+
+.myIcon{
+	font-size: 48px;
+	color: #C82333;
+	padding: 22px;
+}
+
+.myCard:hover{
+	box-shadow: 0px 0px 16px rgba(0,0,0,.08);
+}
+
+.list-inline-item{
+	color: white;
+}
+
+.bg-topnav{
+	background:linear-gradient(90deg, #d13437 10%,  #d13437 100%);
+}
+
+/**/
+.lang-drop{
+	background-color: #d13437;
+	color: #fff;
+	border-color: #fff;
+	padding: 1px 6px 0 6px;
+}
+
+.lang-op:after{
+	border-color: #fff;
+}
+
+.lang-op{
+	border-color: #fff;
+	border:1px solid #fff;
+	padding: 8px;
+}
+
+.facebook:hover{
+	color: rgba(255,255,255,1);
+}
+
